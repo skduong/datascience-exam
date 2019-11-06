@@ -33,7 +33,7 @@ We're going to leverage typical analysis and development workflows used by our t
 ### 0. Configure exam params:
 Define a few parameters used throughout the exam:
 - `your-gh-username`: your [GitHub username](https://help.github.com/articles/remembering-your-github-username-or-email/).
-- `ds-position`: the title of the position you're applying to, specified in the email you recieved (e.g., `data-engineer-2017-q2`, `data-scientist-intern-2017-q3`)
+- `ds-position`: the title of the position you're applying to, specified in the email you recieved (e.g., `data-engineer-2019-q2`, `data-scientist-intern-2019-spring`)
 - `mylastname-myfirstname`: your name, backwards of course!
 
 If you're a POSIX shell user (e.g., linux or osx), you can set these params via environment variables so future commands won't have to be manually modified!
@@ -115,17 +115,19 @@ After opening your notebook, you'll need to select a language kernel of your cho
 - from menubar of the opened notebook, select * Kernel > Change Kernel > <your language>*
  
 
-### 4. Solve TWO problems, one from each section.
+### 4. Solve *THREE* problems, one from each section.
 
-1. Take note that there are **two** sections, they are:
+1. Take note that there are **three** sections, they are:
 	- *1. Algo + Data Structures*
 	- *2. Prob + Stats*
+    - *3. Conceptual ML*
 
-2. Take 10 minutes to review questions across each section.
+2. Take 15 minutes to review questions across each section.
 
 3. Select and answer **ONE** question from **EACH** section, or to be totally explicit:
 	- select and answer a question from section 1 (e.g., either Q1.1 or Q1.2).
-	- select and answer a question from section 2 (e.g., either Q2.1, Q2.2, Q2.3, Q2.4, or Q2.5).
+	- select and answer a question from section 2 (e.g., either Q2.1, Q2.2, Q2.3, Q2.4, Q2.5 or Q 2.6).
+    - select and answer a question from section 3 (e.g Q3.1, Q3.2)
 
 This is you, _shining_ :sparkles:. Think, Hack, Solve, Repeat. Do enjoy this part. :smile:
 
