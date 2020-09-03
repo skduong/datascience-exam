@@ -24,7 +24,7 @@ We're going to leverage typical analysis and development workflows used by our t
 
 - clone this repo and setup a working directory
 - open the exam Jupyter notebook in an [POSIX environment](https://en.wikipedia.org/wiki/POSIX) of your choice (web or local), using a language (kernel) of your choice (you can choose between Scala, R, Haskell, Ruby, Python 2/3, Julia or even Bash)
-- answer two questions of your choice
+- answer three questions of your choice
 - add, commit, and push your solution + resume (and other docs, if you wish) to your remote repo
 - send us completed exam submittal via a [pull request PR](https://help.github.com/articles/about-pull-requests/)
 
